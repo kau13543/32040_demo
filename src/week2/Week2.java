@@ -14,6 +14,7 @@ public class Week2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.println("this is my first git operation");
         // TODO code application logic here
     }
     
