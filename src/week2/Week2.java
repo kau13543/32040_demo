@@ -16,7 +16,7 @@ public class Week2 {
     public static void main(String[] args) {
         System.out.println("this is my first git operation");
          System.out.println("abc");
-        System.out.println("def");
+        System.out.println("defgh");
         
         
         // TODO code application logic here
